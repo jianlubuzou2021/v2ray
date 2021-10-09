@@ -13,4 +13,4 @@ Ps:iOS端打开小火箭右上角小＋号，类型选择Subscribe，把订阅�
 个人筛选整理的香港、台湾、韩国、日本、新加坡 Vmess+SSR 高速节点含少量香港80端口可作免流使用，订阅链接URL直接复制到App订阅使用，不定期更新（1~2次/周）。
 
 博客文章地址：
-https://www.ok1991.ml/start.html
+https://www.imlam.com/start.html
